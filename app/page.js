@@ -12,7 +12,7 @@ export default function Home() {
 			<main className='relative z-10 flex min-h-screen flex-col items-center justify-between'>
 				<header className='flex justify-between items-center w-full px-2 sm:px-6 bg-white'>
 					<div className='flex gap-x-2 justify-between items-center'>
-						<img className='h-14 sm:h-24 w-24 sm:w-52 object-contain' src='/assets/BROWebsite/BROElements/Logo.png' alt='logo' />
+						<img className='h-14 sm:h-24 w-24 sm:w-52 object-contain' src='https://brobroccoli.github.io/broccolicoin.github.io/assets/BROWebsite/BROElements/Logo.png' alt='logo' />
 						{/* <p className='text-xl NittiBold'>$BRO</p> */}
 					</div>
 					<div className='flex gap-x-1 sm:gap-x-4 justify-between items-center'>
